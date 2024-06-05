@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerAttack.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoxMove.cs" Line="141" Column="74" />
+      <File FileName="Assets/Scripts/PlayerAttack.cs" Line="34" Column="37" />
+      <File FileName="Assets/Scripts/Patroler2.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/Patroler.cs" Line="107" Column="32" />
+      <File FileName="Assets/Scripts/patrolerArrow.cs" Line="27" Column="55" />
+      <File FileName="Assets/Scripts/Arrow.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/moveBoat.cs" Line="16" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

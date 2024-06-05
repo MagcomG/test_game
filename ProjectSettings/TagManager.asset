@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - 2dWater
+  - Enemy
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 2dWater
+  - enemy
+  - Player
+  - Boat
+  - weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 267144565
+    locked: 0
+  - name: body
+    uniqueID: 3965738469
+    locked: 0
+  - name: face
+    uniqueID: 725952815
+    locked: 0
+  - name: front
+    uniqueID: 2722875293
+    locked: 0
+  - name: New Layer
+    uniqueID: 3119248307
+    locked: 0
+  - name: New Layer
+    uniqueID: 3479569299
+    locked: 0
+  - name: Menu
+    uniqueID: 3273576713
+    locked: 0
